@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi -eric
 Hello - jero
 
@@ -11,3 +12,7 @@ Hello - jero
          ..
       _______
       \_____/
+=======
+asdasddasd
+Hi -eric
+>>>>>>> sbranch
